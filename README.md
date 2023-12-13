@@ -8,7 +8,7 @@ Current List of suits
 
 That's it for now. Maybe more will be added later, who knows ¯\\\_(ツ)\_/¯
 
-(GitHub)[https://github.com/TorchTheDragon/TorchsSuits]
+[GitHub](https://github.com/TorchTheDragon/TorchsSuits)
 
 # Changelogs
 ### V 0.1.3

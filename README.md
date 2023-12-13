@@ -10,7 +10,7 @@ That's it for now. Maybe more will be added later, who knows ¯\\\_(ツ)\_/¯
 
 # Changelogs
 ### V 0.1.3
-	- Made a GitHub now
+	- Made a [GitHub](https://github.com/TorchTheDragon/TorchsSuits) now
 	- Added a Burger King worker outfit cuz a friend asked
 ### V 0.1.2
 	- Maybe I should actually include the edited texture this time...

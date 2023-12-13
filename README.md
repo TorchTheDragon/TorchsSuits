@@ -1,7 +1,7 @@
 # Torch's Suits
 Howdy, this is just a collection of suits for me and my friends to use. I might add more, I might not. 
 
-Current List of suits
+### Current List of suits
 	- Torch
 	- Marrie
 	- Burger King

@@ -5,12 +5,15 @@ Howdy, this is just a collection of suits for me and my friends to use. I might 
 	- Torch
 	- Marrie
 	- Burger King
+	- Trey
 
 That's it for now. Maybe more will be added later, who knows ¯\\\_(ツ)\_/¯
 
 [GitHub](https://github.com/TorchTheDragon/TorchsSuits)
 
 # Changelogs
+### V 0.1.4
+	- Just made a skin for a friend, Trey
 ### V 0.1.3
 	- Made a GitHub now
 	- Added a Burger King worker outfit cuz a friend asked

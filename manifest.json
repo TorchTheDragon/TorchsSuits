@@ -1,6 +1,6 @@
 {
     "name": "TorchsSuits",
-    "version_number": "0.1.3",
+    "version_number": "0.1.4",
     "website_url": "https://github.com/TorchTheDragon/TorchsSuits",
     "description": "This is just a collection of suits that I am putting together for my friends.",
     "dependencies": [
